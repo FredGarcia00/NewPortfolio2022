@@ -1,0 +1,20 @@
+{
+  "name": "2022-porfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredGarcia00/NewPortfolio2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredGarcia00/NewPortfolio2022/issues"
+  },
+  "homepage": "https://github.com/FredGarcia00/NewPortfolio2022#readme"
+}
